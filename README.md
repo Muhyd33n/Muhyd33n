@@ -1,6 +1,7 @@
 ## Hi there 👋  
 
-   [![Typing SVG](https://readme-typing-svg.demolab.com?size=35&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Welcome+to+my+GitHub+Profile!;I'm+Ola+%F0%9F%92%BB;Data+Professional+%7C+I'm+a+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=35&center=true&vCenter=true&width=900&height=90&duration=4000&lines=Welcome+to+my+GitHub+Profile!;I'm+Ola+%F0%9F%92%BB;Data+Professional+%7C+I'm+a+Problem+Solver)](https://git.io/typing-svg)
+
 
 
 <!--
