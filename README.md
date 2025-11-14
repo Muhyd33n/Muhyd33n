@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 [![Typing SVG](https://readme-typing-svg.demolab.com?size=35&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Welcome+to+my+GitHub+Profile!;I'm+Ola+%F0%9F%92%BB;Data+Scientist+%7C+Problem+Solver)](https://git.io/typing-svg)
+
 
 <!--
 **Muhyd33n/Muhyd33n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
